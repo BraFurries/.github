@@ -87,10 +87,11 @@ Todos os nossos projetos são desenvolvidos com código aberto, permitindo trans
 
 ## 🤝 Como Participar
 
-- 💬 **Discord**: Junte-se ao nosso servidor principal
-- 📱 **Telegram**: Participe dos nossos grupos
-- 🌐 **Web**: Visite nosso site oficial
-- 💻 **GitHub**: Contribua com nossos projetos open-source
+- 🌐 **[Site Oficial](https://www.brafurries.com.br/)**: Visite nosso portal web
+- 💬 **[Discord](https://discord.gg/brafurries)**: Junte-se ao nosso servidor principal
+- 📱 **[Telegram](http://t.me/brafurros)**: Participe dos nossos grupos
+- 📘 **[Facebook](https://www.facebook.com/BraFurries)**: Acompanhe nossas atualizações
+- 💻 **[GitHub](https://github.com/BraFurries)**: Contribua com nossos projetos open-source
 
 ## 📜 Licenciamento
 
